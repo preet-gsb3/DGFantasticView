@@ -12,7 +12,7 @@
 		C7CACE8A23EDF3A200C3D827 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7CACE8823EDF3A200C3D827 /* Main.storyboard */; };
 		C7CACE8C23EDF3A500C3D827 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7CACE8B23EDF3A500C3D827 /* Assets.xcassets */; };
 		C7CACE8F23EDF3A500C3D827 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7CACE8D23EDF3A500C3D827 /* LaunchScreen.storyboard */; };
-		C7CACE9723EDF3BC00C3D827 /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7CACE9623EDF3BC00C3D827 /* FantasticView.swift */; };
+		C7CACE9723EDF3BC00C3D827 /* DGFantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7CACE9623EDF3BC00C3D827 /* DGFantasticView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		C7CACE8B23EDF3A500C3D827 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7CACE8E23EDF3A500C3D827 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7CACE9023EDF3A500C3D827 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C7CACE9623EDF3BC00C3D827 /* FantasticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FantasticView.swift; sourceTree = "<group>"; };
+		C7CACE9623EDF3BC00C3D827 /* DGFantasticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DGFantasticView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				C7CACE8B23EDF3A500C3D827 /* Assets.xcassets */,
 				C7CACE8D23EDF3A500C3D827 /* LaunchScreen.storyboard */,
 				C7CACE9023EDF3A500C3D827 /* Info.plist */,
-				C7CACE9623EDF3BC00C3D827 /* FantasticView.swift */,
+				C7CACE9623EDF3BC00C3D827 /* DGFantasticView.swift */,
 			);
 			path = DGFantastic;
 			sourceTree = "<group>";
@@ -140,7 +140,7 @@
 			files = (
 				C7CACE8723EDF3A200C3D827 /* ViewController.swift in Sources */,
 				C7CACE8523EDF3A200C3D827 /* AppDelegate.swift in Sources */,
-				C7CACE9723EDF3BC00C3D827 /* FantasticView.swift in Sources */,
+				C7CACE9723EDF3BC00C3D827 /* DGFantasticView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

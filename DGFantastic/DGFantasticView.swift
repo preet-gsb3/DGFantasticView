@@ -1,5 +1,5 @@
 //
-//  FantasticView.swift
+//  DGFantasticView.swift
 //  DGFantastic
 //
 //  Created by Gurpreet Singh on 08/02/20.
